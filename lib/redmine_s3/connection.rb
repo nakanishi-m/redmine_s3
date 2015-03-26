@@ -11,7 +11,7 @@ module RedmineS3
       :bucket            => nil,
       :folder            => '',
       :endpoint          => nil,
-      :private           => false,
+      :private           => true,
       :expires           => nil,
       :secure            => false,
       :proxy             => false
